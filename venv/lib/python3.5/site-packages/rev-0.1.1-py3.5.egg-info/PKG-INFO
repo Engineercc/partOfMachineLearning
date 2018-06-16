@@ -1,0 +1,12 @@
+Metadata-Version: 1.1
+Name: rev
+Version: 0.1.1
+Summary: Command line utility that reverses strings with varying granularities
+Home-page: https://github.com/rjchee/rev
+Author: Raymond Chee
+Author-email: rjchee@gmail.com
+License: UNKNOWN
+Download-URL: https://github.com/rjchee/rev/tarball/0.1
+Description: UNKNOWN
+Keywords: reverse,strings,utility
+Platform: UNKNOWN
